@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly> "C:\Program Files\RevitAPITraining\RevitAPI_Unit3.dll"</Assembly>
+		<AddInId>EAAAB97A-8610-471A-A5C0-5C595168B847</AddInId>
+		<FullClassName>RevitAPI_Unit3.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Копирование группы объектов_Зад 3</Text>
+	</AddIn>
+</RevitAddIns>
